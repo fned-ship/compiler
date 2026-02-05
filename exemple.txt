@@ -1,0 +1,9 @@
+{
+    x := 10;
+    yyy := 20;
+    if x then {
+        resultat := x + y * 2;
+        final := resultat - 5
+    } else
+        resultat := 0
+}
